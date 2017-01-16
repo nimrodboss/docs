@@ -51,7 +51,7 @@ The clients report breaks down which devices and clients are most frequently use
 Top 5
 {% endanchor %}
 
-The top 5 section will show you the most engaged email clients and devices based on the selected metric. By default, clicks are select, but you can change that by choosing a metric from the button at the top of this section. You can change which metrics, date, or grouping by adjusting the [statistics filters]({{root_url}}/User_Guide/Statistics/index.html#-Statistics-Filters).
+The top 5 section will show you the most engaged email clients and devices based on the selected metric. By default, opens are select, but you can change that by choosing a metric from the button at the top of this section. You can change which metrics, date, or grouping by adjusting the [statistics filters]({{root_url}}/User_Guide/Statistics/index.html#-Statistics-Filters).
 
 {% anchor h2 %}
 Individual Metrics Activity
